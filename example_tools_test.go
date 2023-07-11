@@ -1,4 +1,4 @@
-package crawl_test
+package crawlb_test
 
 import (
 	"archive/zip"
