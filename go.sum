@@ -1,0 +1,8 @@
+github.com/17e10/go-httpb v0.1.0 h1:y1vQC4DiKgwRcBh+QFJEQ+SY4ZuaIHoPUbCwbrEkdDw=
+github.com/17e10/go-httpb v0.1.0/go.mod h1:MxAILMAXeN/rOzHEF7b9alHKcarFNGWC/sq5UcPE7hA=
+github.com/17e10/go-jsonb v0.1.0 h1:gFKx5ad2xzfK85h8ROZPeoUcAsVDljlKdqq90Y/hk+4=
+github.com/17e10/go-jsonb v0.1.0/go.mod h1:tjZ685CXe+Ag70aeVjNi4FdaVGsajWzlwnzXtMSfpCc=
+github.com/17e10/go-notifyb v0.1.0 h1:MhzSukbxSFqVApR/L+qphnh549veivDR6piqM8HLpR0=
+github.com/17e10/go-notifyb v0.1.0/go.mod h1:07nHAO7cSlqMlg16I+g7VqAS4SjNNFEGl+BlFeF7xlc=
+golang.org/x/text v0.11.0 h1:LAntKIrcmeSKERyiOh0XMV39LXS8IE9UL2yP7+f5ij4=
+golang.org/x/text v0.11.0/go.mod h1:TvPlkZtksWOMsz7fbANvkp4WM8x/WCo/om8BMLbz+aE=
